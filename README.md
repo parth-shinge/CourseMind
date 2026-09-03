@@ -1,4 +1,4 @@
-# Lecture-to-Notes + RAG Learning Assistant
+# CourseMind: Lecture-to-Notes + RAG Learning Assistant
 
 A course-support tool featuring two coupled pipelines sharing a single knowledge base:
 

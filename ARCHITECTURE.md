@@ -1,4 +1,4 @@
-# Lecture-to-Notes + RAG Learning Assistant — Architecture & Workflow
+# CourseMind — Architecture & Workflow
 
 > This file is the single source of truth for this project. Every coding agent
 > (Gemini 3.1 Pro, Claude Opus 4.6, or any other) working in this repo must read

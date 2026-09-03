@@ -1,6 +1,6 @@
 # Sample Data
 
-This directory contains a small synthetic demo dataset for the Lecture-to-Notes + RAG Assistant.
+This directory contains a small synthetic demo dataset for CourseMind.
 
 **Contents:**
 - `sample_transcript.json` — 3 transcript segments about Newton's Laws of Motion

@@ -1,4 +1,4 @@
-"""Streamlit entry point for Lecture-to-Notes + RAG Learning Assistant.
+"""Streamlit entry point for CourseMind (Lecture-to-Notes + RAG Learning Assistant).
 
 Provides a multi-tab interface:
 - Tab 1: Video Ingest & Transcribe
@@ -16,14 +16,14 @@ from app.ui.chat_tab import render_chat_tab
 
 def main() -> None:
     st.set_page_config(
-        page_title="Lecture-to-Notes + RAG Assistant",
+        page_title="CourseMind",
         page_icon="🎓",
         layout="wide",
     )
 
     settings.ensure_dirs()
 
-    st.title("🎓 Lecture-to-Notes + RAG Learning Assistant")
+    st.title("🎓 CourseMind")
     st.caption("Course-support tool: Video to Notes and Grounded RAG Assistant")
 
     tab_ingest, tab_notes, tab_chat = st.tabs(

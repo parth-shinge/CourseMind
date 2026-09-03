@@ -1,1 +1,1 @@
-"""Unit and integration tests for Lecture-to-Notes + RAG Assistant."""
+"""Unit and integration tests for CourseMind."""

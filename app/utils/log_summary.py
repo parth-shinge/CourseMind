@@ -111,7 +111,7 @@ def main() -> None:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
     print("=" * 60)
-    print("Lecture2RAG — Pilot Study Log Summary")
+    print("CourseMind — Pilot Study Log Summary")
     print("=" * 60)
 
     # ---- Query log ----
