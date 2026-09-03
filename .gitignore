@@ -1,0 +1,40 @@
+# Python environment & cache
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environment variables & secrets
+.env
+.env*.local
+
+# Data directories (raw videos, transcripts, notes, vector database, and pilot-study logs)
+# Exclude ingested lecture content to protect student/course data privacy
+data/raw_videos/*
+!data/raw_videos/.gitkeep
+
+data/transcripts/*
+!data/transcripts/.gitkeep
+
+data/notes/*
+!data/notes/.gitkeep
+
+data/vector_db/*
+!data/vector_db/.gitkeep
+
+data/logs/*
+!data/logs/.gitkeep
+
+# Demo / sample data for testing and reproducibility (explicitly included)
+!data/samples/
+!data/samples/**
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

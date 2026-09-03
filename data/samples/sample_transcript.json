@@ -1,0 +1,17 @@
+[
+  {
+    "start": 0.0,
+    "end": 15.5,
+    "text": "Welcome to this demo lecture on Newton's Laws of Motion. Today we'll cover the three fundamental laws that describe how objects move and interact."
+  },
+  {
+    "start": 16.0,
+    "end": 45.0,
+    "text": "Newton's First Law, also called the law of inertia, states that an object at rest stays at rest, and an object in motion stays in motion with the same speed and direction, unless acted upon by an unbalanced force. Think of a hockey puck sliding on ice: it keeps going until friction or a wall stops it."
+  },
+  {
+    "start": 46.0,
+    "end": 80.0,
+    "text": "Newton's Second Law gives us the famous equation F equals m times a, or force equals mass times acceleration. This tells us that the acceleration of an object depends on the net force acting on it and its mass. If you push a shopping cart, the harder you push the faster it accelerates, and a heavier cart accelerates more slowly for the same push."
+  }
+]
