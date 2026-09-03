@@ -9,6 +9,18 @@ The two pipelines share a knowledge base so the assistant's answers stay grounde
 
 ---
 
+## Preview
+
+Ask a question, get an answer grounded only in the actual lecture content, with citations back to the source lecture and timestamp:
+
+![Chat tab with grounded answer](docs/screenshots/chat-tab-answer.png)
+
+*Expand retrieved sources to inspect the exact lecture chunks, similarity scores, and timestamps supporting the response:*
+
+![Expanded source citations](docs/screenshots/chat-tab-sources.png)
+
+---
+
 ## Prerequisites
 
 - **Python 3.11+** (tested with 3.11.x)
